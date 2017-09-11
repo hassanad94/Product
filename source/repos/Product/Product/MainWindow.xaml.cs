@@ -27,6 +27,17 @@ namespace Product
 
         private void Add_Button(object sender, RoutedEventArgs e)
         {
+          // AddWindow _AddWindow = new AddWindow();
+
+        }
+
+        private void Edit_Button(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void Remove_Button(object sender, RoutedEventArgs e)
+        {
 
         }
     }

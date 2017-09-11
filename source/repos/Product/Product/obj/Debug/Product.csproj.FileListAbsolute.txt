@@ -1,0 +1,6 @@
+C:\Users\bunyikflorian\source\repos\Product\Product\obj\Debug\Product.csprojResolveAssemblyReference.cache
+C:\Users\bunyikflorian\source\repos\Product\Product\obj\Debug\AddWindow.g.cs
+C:\Users\bunyikflorian\source\repos\Product\Product\obj\Debug\MainWindow.g.cs
+C:\Users\bunyikflorian\source\repos\Product\Product\obj\Debug\App.g.cs
+C:\Users\bunyikflorian\source\repos\Product\Product\obj\Debug\Product_MarkupCompile.cache
+C:\Users\bunyikflorian\source\repos\Product\Product\obj\Debug\Product_MarkupCompile.lref
