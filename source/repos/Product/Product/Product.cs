@@ -33,7 +33,7 @@ namespace Product
         }
 
         public int Quantity {
-            get {return _quantity }
+            get { return _quantity; }
             set { _quantity = value;
                 OnPropertyChange();
             }
