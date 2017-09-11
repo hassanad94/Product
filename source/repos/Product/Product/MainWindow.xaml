@@ -7,6 +7,10 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        
+        <ListBox HorizontalAlignment="Left" Height="267" VerticalAlignment="Top" Width="212" Margin="10,0,0,0"/>
+        <Button Content="Add" HorizontalAlignment="Left" Margin="227,10,0,0" VerticalAlignment="Top" Click="Add_Button" Width="75"/>
+        <Button Content="Edit" HorizontalAlignment="Left" Margin="17,281,0,0" VerticalAlignment="Top" Click="Edit_Button" Width="75"/>
+        <Button Content="Remove" HorizontalAlignment="Left" Margin="147,281,0,0" VerticalAlignment="Top" Click="Remove_Button" Width="75"/>
+
     </Grid>
 </Window>
